@@ -1,0 +1,8 @@
+tools/*
+!tools/packages.config*
+
+**/nuget/
+
+**/bin/
+**/obj/
+**/out/
